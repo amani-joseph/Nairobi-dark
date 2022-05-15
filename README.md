@@ -1,13 +1,31 @@
-# README
-## This is the README for your extension "nairobi-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<!-- @format -->
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<h1 align="center">
+ Nairobi-Dark
+</h1>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<p align="center">Ayu & 2077 inspired theme.</p>
+
+## Installation
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Nairobi-Dark theme` - find the one by **Amani**.
+3. Click **Install** to install it.
+4. Click **Reload** to reload your editor
+5. Code > Preferences > Color Theme > **Nairobi-Dark**
+
+<h2 align="center">
+  Preview Image
+</h2>
+
+<p align="center">
+<img src="./assets/Nairobi-dark.png" alt="Preview">
+</p>
+
+## Credits
+
+If any issues occur or you have ideas for new improvements, please open up a new [issue](<https://github.com/amani-joseph/Nairobi-dark-VS-Code-Theme>
+/issues) not a [PR](<https://github.com/endormi/Nairobi-dark-VS-Code-Theme>
+/issues).
 
 **Enjoy!**
