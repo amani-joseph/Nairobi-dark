@@ -1,0 +1,21 @@
+{
+    "name": "nairobi-dark",
+    "displayName": "Nairobi",
+    "description": "Nairobi dark theme is a color scheme, customized user interface theme and complete icon set for Visual Studio Code. It has been designed by Amani Joseph. It embraces and borrows a lot from novel themes like ayu and 2077 some of my favorite themes .",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nairobi-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nairobi-dark-color-theme.json"
+            }
+        ]
+    }
+}
