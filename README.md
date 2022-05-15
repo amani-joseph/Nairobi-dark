@@ -25,7 +25,7 @@
 ## Credits
 
 If any issues occur or you have ideas for new improvements, please open up a new [issue](<https://github.com/amani-joseph/Nairobi-dark-VS-Code-Theme>
-/issues) not a [PR](<https://github.com/endormi/Nairobi-dark-VS-Code-Theme>
+/issues) not a [PR](<https://github.com/amani-joseph/Nairobi-dark-VS-Code-Theme>
 /issues).
 
 **Enjoy!**
